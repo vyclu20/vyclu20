@@ -10,7 +10,7 @@ I'm a curious and passionate learner with a strong interest in computer science,
 
 I also have a strong proficiency in design tools like Photoshop and Blender, where I focus on creating 3D models and engaging in image manipulation and interactive art. While I have extensive experience using these tools, I'm constantly seeking to improve my skills and stay up-to-date with the latest techniques and trends. Recently, I've been exploring other design tools like Spline to expand my skillset and explore new creative possibilities. 
 
-Overall, I am committed to continuous learning and improvement in all aspects of my work. In the near future, I would like to explore game development and robotics, and further expand my knowledge in artificial intelligence and machine learning. Additionally, I also have a strong interest in cybersecurity and data privacy, and am eager to explore these fields more deeply. Currently my github is still a bit empty, but I hope to upload more projects in the future to share with the community.
+Overall, I am committed to continuous learning and improvement in all aspects of my work. In the near future, I would like to explore game development and robotics, and further expand my knowledge in artificial intelligence and machine learning. Additionally, I also have a strong interest in cybersecurity and data privacy, and am eager to explore these fields more deeply. Currently my github is still a bit empty, but I hope to upload more projects in the future to share with this community.
 
 (cat butts)
 
